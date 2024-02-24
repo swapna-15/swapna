@@ -23,6 +23,7 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "ms-vscode.azure-account",
+        "oderwat.indent-rainbow" ,
         "ms-azuretools.vscode-azurestaticwebapps"
       ],
       "settings": {
