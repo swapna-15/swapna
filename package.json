@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
+  
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
