@@ -43,6 +43,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
+// eslint-disable-next-line prettier/prettier
 const detailOrQuote =
   "Coding. Creating. Dream-chasing.";
 
