@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio4.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "typing on pc";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Redesigned a real-world poorly designed website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Redesigned website (link included) through collaborative project. Employed user-centered design principles, including IA, UX concepts, and HTML/CSS/JavaScript implementation.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Digital calculator and clock",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed clock and calculator GUI applications in Java, emphasizing correct layout, global setup, and action listener implementation for user input. Followed OOP principles and UI standards.",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Invoice System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a Python-based invoice and billing system using text files. Designed for businesses to generate bills, manage stocks, and offer discounts. Bills displayed on Notepad for clarity, with stock management in Python.",
+  },
+  {
+    title: "Image processing",
+    description:
+      "Created a project on C about building an image processing program that can load, save, copy images, and perform tasks like blurring. Additionally, it can generate C source code representations of images.",
+   
   },
 ];
 
