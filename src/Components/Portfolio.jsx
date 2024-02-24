@@ -34,7 +34,7 @@ const projectList = [
     title: "Redesigned a real-world poorly designed website",
     description:
       "Redesigned website (link included) through collaborative project. Employed user-centered design principles, including IA, UX concepts, and HTML/CSS/JavaScript implementation.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/sm2196/WEB-DESIGN",
   },
   {
     title: "Digital calculator and clock",
@@ -50,7 +50,6 @@ const projectList = [
     title: "Image processing",
     description:
       "Created a project on C about building an image processing program that can load, save, copy images, and perform tasks like blurring. Additionally, it can generate C source code representations of images.",
-   
   },
 ];
 

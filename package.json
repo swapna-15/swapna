@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://swapna.github.io/swapna-15",
+  "homepage": "http://swapna-15.github.io/swapna",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://swapna.github.io/swapna-15'",
+    "build-gh": "parcel build --public-url 'https://swapna-15.github.io/swapna'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
