@@ -17,7 +17,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/aboutme4.jpg";
-
 const imageAltText = "black and green background";
 
 /**
