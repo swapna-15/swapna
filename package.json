@@ -11,12 +11,11 @@
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
-  
+
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
